@@ -1,0 +1,11 @@
+Full Web Page on "Nature"
+1. Project Structure
+CopyRun
+nature-web/
+├── index.html       # Main webpage
+├── styles.css       # Styles for page
+├── script.js        # Optional scripts
+├── images/          # Folder for nature images (add relevant images here)
+│   ├── mountain.jpg
+│   ├── forest.jpg
+│   └── river.jpg
