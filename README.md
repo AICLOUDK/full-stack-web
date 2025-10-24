@@ -12,7 +12,6 @@
 
 **Frontend** is what users see and interact with directly in their web browsers. It involves creating the visual elements, layout, and user experience using technologies like **HTML**, **CSS**, and **JavaScript**. Modern frontend development often uses frameworks and libraries like **React**, **Angular**, or **Vue.js** to build dynamic and responsive interfaces. For example, designing buttons, forms, and displaying data fetched from the backend are part of frontend development.
 
-*(Add explain: Image of a webpage layout with buttons, forms, and visuals)*
 
 ---
 
@@ -20,7 +19,7 @@
 
 **Backend** refers to the server-side logic, databases, and application infrastructure that process user requests, handle data storage, and perform computations. It involves writing server-side code using languages like **Node.js**, **Python**, **Java**, or **PHP**. The backend exposes **APIs** (Application Programming Interfaces) that the frontend can call to fetch or send data. For example, when a user submits a login form, the backend authenticates credentials and responds accordingly.
 
-*(Add explain: Diagram showing client-server communication with APIs)*
+
 
 ---
 
