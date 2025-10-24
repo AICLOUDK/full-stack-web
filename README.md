@@ -35,11 +35,10 @@
 6. **Deployment:** Host the application on servers or cloud platforms like AWS, Heroku, or Netlify.  
 7. **Maintenance:** Fix bugs, update features, and improve performance.
 
-*(Add explain: Flowchart of full stack development process)*
 
 ---
 
-### Example Technologies
+### Technologies
 
 | Part          | Examples                                                  |
 |---------------|--------------------------------------------------------------|
